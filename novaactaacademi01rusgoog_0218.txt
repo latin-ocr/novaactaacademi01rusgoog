@@ -1,0 +1,42 @@
+--·-- (80) ἓξ.-
+
+Solut'io Analytica ’
+’ problematis propositi.
+
+ 
+
+ς. 7. 'Cum igitur hae‘c “quaestio circa superficiem ‘sst-
+·per ‘dato ‘plano exstruendam versetur, referat tabu'la hoc ipsum
+planum, in quo pro lubitu statuantur bini axes fixi ΟΑ οι
+Tab.11.0 B inter se normales , sec-undum quos in ipso plano consti·
+¹⁷¹8· ²· tuantur binae coordinatae OX-x OY:y‚ tertia autem, e‘x
+puncto Υ ad ipsam superficiem perpendiculariter erecta, voce·
+‚tur Y Z zzz„ quihus politis· eiusmodi aequatio inter has ter-
+nas coordinatas x,· y et-tz indagari debet, vt omnes-restae
+Z N, quae.ad superficiemmormaliter. in :lingulis punctis. Z,
+sunt ductae, fiant inter se aequales, hoc est, quaeritur, qualis
+fune'tio quantitas z binarum variabillum x et y effe debeat, vt
+
+¹ ‚ista conditio adimpleatur
+
+ς. 8. Quoniam igitur coordinatam z tanquam funcst’io·
+nem duarum reliquarum x et y ίιιεᾶεἰιιιιιε, fi eam differenti'e-
+muS, sumendo tam x quam y variabilem, huiusmodi formula ι
+’,εχοιὶειιιιι az: p Bx-1-q ὃ y, et nunc ratio binarum quantl-
+'tatum p et q inuestigari debet, vt conditioni praescriptae satis-
+fiat. In genere quidem constat, has duas quantitates 'p et q
+tales functiones ipsarum x et y effe debere, vt formula diffe-
+
+. rentialis p bx -ι- q ὂ y integrationem admittat, id quod eueniet,
+,fi 'fuerit (ἐξ) ..τ-(Ξ) , vbi formula ’(Ξ-Ε) nascitur ex “ diffe- ι
+rentiatione ipfius p , fi sola y pro variabili accipiatur· ‚ fimili-
+-que modo altera formula (3-2) nascitur ex differentiatione ᾖ
+
+·ipfius q , fi sola x variabilis statuatur.
+
+§.9 Sit nunc Ν ‘punctum in nostro plano, in quod
+resta ZN, quae ad superficiem in punsto Z est normalis,
+incidit , ita vt per conditionem praescriptam effe oporteat
+
+ZN
+

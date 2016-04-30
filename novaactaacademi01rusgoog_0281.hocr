@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaacademi01rusgoog_0281.png"; bbox 0 0 4288 5844; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 101 2276 2673 2490">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 101 2265 2673 2490">
+     <span class='ocr_line' id='line_1_1' title="bbox 101 2276 2673 2490; baseline 0.001 -10"><span class='ocrx_word' id='word_1_1' title='bbox 101 2403 104 2480; x_wconf 52' lang='lat'><em>÷</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 957 2278 1364 2472; x_wconf 87' lang='lat' dir='ltr'>PH</span> <span class='ocrx_word' id='word_1_3' title='bbox 1470 2276 2673 2490; x_wconf 55' lang='lat' dir='ltr'>Y·SICO-›</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 101 2485 104 2530">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 101 2485 104 2530">
+     <span class='ocr_line' id='line_1_2' title="bbox 101 2485 104 2530; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 101 2485 104 2530; x_wconf 49' lang='lat' dir='ltr'>k</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 238 2659 3685 2973">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 101 2545 3685 2973">
+     <span class='ocr_line' id='line_1_3' title="bbox 238 2659 3685 2973; baseline 0.001 0.115"><span class='ocrx_word' id='word_1_5' title='bbox 238 2659 3400 2973; x_wconf 83' lang='lat' dir='ltr'><strong>MATHEMATICA.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 3580 2962 3685 2973; x_wconf 76' lang='grc'>,,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,40 @@
+sq · n1sTo1RE
+
+Voici eq que la methodo de differentiation & d’Intk·
+gration, dont il est question dans l'e' t'ftre, 3 de partictssier„
+δε ce qui 3 determine vantem, d’en faire le sujet de ce me·
+moire. 11 donne d’abord une demonstration rigoureuse‘ des
+operations que les correfiions mentionnees exigent, βε ensuite„
+il fait voit que ces operations ne sont pas restreintes unique-
+ment aux series des puissances des nombres '''‚naturels mais
+qu 'on peut les employer dans 13 sommation de tontes sortes
+‘de progreffions. Ainfi par exemple fi 13 somme d’une serie
+dont le terme gkneral est X (fonstion de Pindice du„ dernier
+terme x), est conane, l’Auteut’ fait voit qu’on peut trouver,
+par un procede semblable, 13 somme d’une serie dont le terme
+general 311- {x -, & la somme d’une autre setie dont le terme
+
+. general est sXBx
+
+ΜειῙιοᾶιιε generalis inuestigandi radices omniurn aequa-
+* tionum per 3ΡΡιοΧιιιι3ιίοιιειιι-
+
+Αιιᾶοτο L. Eulem, pag. 16.
+
+Qu'on se represente sous la forme Ζ-το, une Equa-
+tion‘quelconque, de laquelle il s'agiss‘e de determinerffl 13 ra-
+cine z. Si dans cette equation on met 3 13 place de 13 ι·3-“
+
+. cine 'z une valent approchante de cette mine, v‚· de laquel-
+le on suppose qu'elle rende Z·:V= il est clair que fi v etoit
+13 νὲιίι3ὸ13 racine de l’t'equation propos6e‚ il y auroit V=05
+mais que, parceque v n’est qu'une valent approchante de 13
+ruine, V ne sera pas tout 3 fait &gal a zoi-ro. Supposant
+donc V--zy-‚ cette quantit& y sera une fonstion connue de
+v, qui devient &gale- 3 zeto, lorsque νεῖ-35 & reciproque-
+ment, v sera une certaine sonciion de y, qu’on pourra indi·
+
+quer
+
+ 
+
